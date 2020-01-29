@@ -1,9 +1,7 @@
-#Demo git repository
+# Demo git repository
 
 this is a test to learn git
 
-## ipsum below
+## website contents
 
-blah blah blah
-
-more blah blah blah
+1) 
